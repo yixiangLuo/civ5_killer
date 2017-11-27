@@ -48,7 +48,7 @@
 
 `gcc -o kill_civ.exe main.c -lwinmm`
 
-即可完成编译，这需要你的电脑上安装了gcc。编译完成后即可按上述方法使用kill_civ.exe。
+即可完成编译（需在windows系统中编译），这需要你的电脑上安装了gcc。编译完成后即可按上述方法使用kill_civ.exe。
 
 另外，你可以修改main.c中的
 ```
